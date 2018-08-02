@@ -1,0 +1,5 @@
+1. vagrant up
+2. vagrant ssh
+3. chuser
+4. bash install_chroot_prince.sh
+5. bash install_chroot_node.sh
